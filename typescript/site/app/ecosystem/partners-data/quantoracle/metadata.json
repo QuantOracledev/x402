@@ -1,0 +1,7 @@
+{
+  "name": "QuantOracle",
+  "description": "63 deterministic quant finance calculators plus 10 composite workflows (backtest, rebalance, strategy optimizer, hedging, risk tearsheet, pairs signal). Options pricing with 10 Greeks, VaR, Kelly, Monte Carlo, GARCH, bond pricing. x402 micropayments on Base and Solana. 1,000 free calls/IP/day, no API key.",
+  "logoUrl": "/logos/quantoracle.png",
+  "websiteUrl": "https://api.quantoracle.dev",
+  "category": "Services/Endpoints"
+}
